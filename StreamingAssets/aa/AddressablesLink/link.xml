@@ -2,16 +2,25 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="ControllerBullet" preserve="all" />
     <type fullname="ControllerBulletChain" preserve="all" />
+    <type fullname="ControllerCannon" preserve="all" />
+    <type fullname="ControllerCard" preserve="all" />
+    <type fullname="ControllerCardSlotBase" preserve="all" />
+    <type fullname="ControllerCardSlotExtra" preserve="all" />
+    <type fullname="ControllerCardSlotHand" preserve="all" />
+    <type fullname="ControllerCardSlotMinus" preserve="all" />
+    <type fullname="ControllerDragArea" preserve="all" />
     <type fullname="ControllerDragIcon" preserve="all" />
-    <type fullname="ControllerDragPanel" preserve="all" />
-    <type fullname="ControllerDropSlot" preserve="all" />
+    <type fullname="ControllerDropPanel" preserve="all" />
     <type fullname="ControllerEnemy" preserve="all" />
+    <type fullname="ControllerGuiInGame" preserve="all" />
+    <type fullname="ControllerGuiLobby" preserve="all" />
     <type fullname="ControllerPenTailTreeshrew" preserve="all" />
-    <type fullname="ControllerRevolver" preserve="all" />
-    <type fullname="ControllerRoulette" preserve="all" />
-    <type fullname="ManagerObjectBullet" preserve="all" />
+    <type fullname="ManagerObjectCannon" preserve="all" />
+    <type fullname="ManagerObjectCard" preserve="all" />
+    <type fullname="ManagerObjectCardEffect" preserve="all" />
     <type fullname="ManagerObjectEnemy" preserve="all" />
-    <type fullname="ManagerObjectIngame" preserve="all" />
+    <type fullname="ManagerObjectGui" preserve="all" />
+    <type fullname="ManagerObjectInGame" preserve="all" />
     <type fullname="ManagerObjectLoading" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
@@ -74,9 +83,7 @@
     <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
-    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
