@@ -1,14 +1,14 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="ControllerBullet" preserve="all" />
-    <type fullname="ControllerBulletChain" preserve="all" />
     <type fullname="ControllerCamera" preserve="all" />
     <type fullname="ControllerCannon" preserve="all" />
     <type fullname="ControllerCard" preserve="all" />
     <type fullname="ControllerCardSlotBase" preserve="all" />
+    <type fullname="ControllerCardSlotDirectBase" preserve="all" />
+    <type fullname="ControllerCardSlotDirectSelect" preserve="all" />
     <type fullname="ControllerCardSlotExtra" preserve="all" />
     <type fullname="ControllerCardSlotHand" preserve="all" />
-    <type fullname="ControllerCardSlotMisfortune" preserve="all" />
     <type fullname="ControllerDragArea" preserve="all" />
     <type fullname="ControllerDragIcon" preserve="all" />
     <type fullname="ControllerDropPanel" preserve="all" />
@@ -30,7 +30,7 @@
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
   </assembly>
-  <assembly fullname="Unity.InputSystem, Version=1.8.2.0, Culture=neutral, PublicKeyToken=null">
+  <assembly fullname="Unity.InputSystem, Version=1.14.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.InputSystem.InputActionAsset" preserve="all" />
     <type fullname="UnityEngine.InputSystem.InputActionReference" preserve="all" />
     <type fullname="UnityEngine.InputSystem.UI.InputSystemUIInputModule" preserve="all" />
