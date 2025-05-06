@@ -1,31 +1,31 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="ControllerBullet" preserve="all" />
-    <type fullname="ControllerCamera" preserve="all" />
-    <type fullname="ControllerCannon" preserve="all" />
-    <type fullname="ControllerCard" preserve="all" />
-    <type fullname="ControllerCardSlotBase" preserve="all" />
-    <type fullname="ControllerCardSlotDirectBase" preserve="all" />
-    <type fullname="ControllerCardSlotDirectSelect" preserve="all" />
-    <type fullname="ControllerCardSlotExtra" preserve="all" />
-    <type fullname="ControllerCardSlotHand" preserve="all" />
-    <type fullname="ControllerDragArea" preserve="all" />
-    <type fullname="ControllerDragIcon" preserve="all" />
-    <type fullname="ControllerDropPanel" preserve="all" />
-    <type fullname="ControllerEnemy" preserve="all" />
-    <type fullname="ControllerGuiInGame" preserve="all" />
-    <type fullname="ControllerGuiLobby" preserve="all" />
-    <type fullname="ControllerGuiShop" preserve="all" />
-    <type fullname="ControllerSkunk" preserve="all" />
-    <type fullname="ControllerWall" preserve="all" />
-    <type fullname="ManagerObjectCannon" preserve="all" />
-    <type fullname="ManagerObjectCard" preserve="all" />
-    <type fullname="ManagerObjectEnemy" preserve="all" />
-    <type fullname="ManagerObjectGui" preserve="all" />
-    <type fullname="ManagerObjectInGame" preserve="all" />
-    <type fullname="ManagerObjectLoading" preserve="all" />
-    <type fullname="ManagerObjectSkunk" preserve="all" />
-    <type fullname="ManagerObjectWall" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerBullet" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerCamera" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerCannon" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerCard" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerCardSlotBase" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerCardSlotDirectBase" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerCardSlotDirectSelect" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerCardSlotExtra" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerCardSlotHand" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerDragArea" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerDragIcon" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerDropPanel" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerEnemy" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerGuiInGame" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerGuiLobby" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerGuiShop" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerSkunk" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerWall" preserve="all" />
+    <type fullname="Ptt.Manager.ManagerObjectCannon" preserve="all" />
+    <type fullname="Ptt.Manager.ManagerObjectCard" preserve="all" />
+    <type fullname="Ptt.Manager.ManagerObjectGui" preserve="all" />
+    <type fullname="Ptt.Manager.ManagerObjectInGame" preserve="all" />
+    <type fullname="Ptt.Manager.ManagerObjectLoading" preserve="all" />
+    <type fullname="Ptt.Manager.ManagerObjectSkunk" preserve="all" />
+    <type fullname="Ptt.Manager.ManagerObjectStage" preserve="all" />
+    <type fullname="Ptt.Manager.ManagerObjectWall" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
