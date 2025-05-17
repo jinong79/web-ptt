@@ -16,16 +16,12 @@
     <type fullname="Ptt.Controller.ControllerGuiInGame" preserve="all" />
     <type fullname="Ptt.Controller.ControllerGuiLobby" preserve="all" />
     <type fullname="Ptt.Controller.ControllerGuiShop" preserve="all" />
-    <type fullname="Ptt.Controller.ControllerSkunk" preserve="all" />
+    <type fullname="Ptt.Controller.ControllerKunk" preserve="all" />
     <type fullname="Ptt.Controller.ControllerWall" preserve="all" />
-    <type fullname="Ptt.Manager.ManagerObjectCannon" preserve="all" />
     <type fullname="Ptt.Manager.ManagerObjectCard" preserve="all" />
     <type fullname="Ptt.Manager.ManagerObjectGui" preserve="all" />
     <type fullname="Ptt.Manager.ManagerObjectInGame" preserve="all" />
     <type fullname="Ptt.Manager.ManagerObjectLoading" preserve="all" />
-    <type fullname="Ptt.Manager.ManagerObjectSkunk" preserve="all" />
-    <type fullname="Ptt.Manager.ManagerObjectStage" preserve="all" />
-    <type fullname="Ptt.Manager.ManagerObjectWall" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -84,7 +80,6 @@
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
-    <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
